@@ -2,20 +2,20 @@
   "name": "project-movie",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://HelenFedoseeva.github.io/team-project-movie",
+  "homepage": "https://Svetlana2505.github.io/team-project-movie",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /team-project-movie/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/goitacademy/parcel-project-template.git"
+    "url": "git+https://Svetlana2505.github.io/team-project-movie.git"
   },
   "keywords": [],
-  "author": "Alexander Repeta <alexander.repeta@gmail.com>",
+  "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/goitacademy/parcel-project-template/issues"
+    "url": "https://Svetlana2505.github.io/team-project-movie/issues"
   },
   "dependencies": {
     "@firebase/firestore": "^3.7.2",
